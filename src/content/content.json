@@ -23,7 +23,7 @@
       "titulo": "O começo de tudo",
       "texto": "O dia em que o nosso mar começou.",
       "detalhe": "Escreva aqui a história completa desse dia: onde estávamos, o que vestíamos, o que sentimos.",
-      "foto": "/fotos/01.webp",
+      "foto": "fotos/01.webp",
       "icone": "🏐",
       "ace": true
     },
@@ -33,7 +33,7 @@
       "titulo": "Nossa primeira saída",
       "texto": "Aquele dia em que o tempo parou.",
       "detalhe": "Conte a história completa aqui.",
-      "foto": "/fotos/02.webp",
+      "foto": "fotos/02.webp",
       "icone": "🌅"
     },
     {
@@ -42,7 +42,7 @@
       "titulo": "Primeira viagem juntos",
       "texto": "Mala pronta, coração leve, sol dourado.",
       "detalhe": "Conte a história completa aqui.",
-      "foto": "/fotos/03.webp",
+      "foto": "fotos/03.webp",
       "icone": "🧳",
       "ace": true
     },
@@ -52,7 +52,7 @@
       "titulo": "Um dia só nosso",
       "texto": "Sem pressa, sem relógio — só você e eu.",
       "detalhe": "Conte a história completa aqui.",
-      "foto": "/fotos/04.webp",
+      "foto": "fotos/04.webp",
       "icone": "💛"
     },
     {
@@ -61,7 +61,7 @@
       "titulo": "Seis meses de nós",
       "texto": "Cada dia ao seu lado vale ouro.",
       "detalhe": "Conte a história completa aqui.",
-      "foto": "/fotos/05.webp",
+      "foto": "fotos/05.webp",
       "icone": "💙",
       "ace": true
     }
@@ -105,42 +105,42 @@
   ],
   "galeria": [
     {
-      "src": "/fotos/01.webp",
+      "src": "fotos/01.webp",
       "legenda": "Nosso começo",
       "tag": "dia a dia"
     },
     {
-      "src": "/fotos/02.webp",
+      "src": "fotos/02.webp",
       "legenda": "Pôr do sol perfeito",
       "tag": "pôr do sol"
     },
     {
-      "src": "/fotos/03.webp",
+      "src": "fotos/03.webp",
       "legenda": "Rumo à aventura",
       "tag": "viagens"
     },
     {
-      "src": "/fotos/04.webp",
+      "src": "fotos/04.webp",
       "legenda": "Dia de sol e areia",
       "tag": "praia"
     },
     {
-      "src": "/fotos/05.webp",
+      "src": "fotos/05.webp",
       "legenda": "Essa cara… 😂",
       "tag": "engraçadas"
     },
     {
-      "src": "/fotos/06.webp",
+      "src": "fotos/06.webp",
       "legenda": "Mar e nós dois",
       "tag": "mar"
     },
     {
-      "src": "/fotos/07.webp",
+      "src": "fotos/07.webp",
       "legenda": "Domingo de nada",
       "tag": "dia a dia"
     },
     {
-      "src": "/fotos/08.webp",
+      "src": "fotos/08.webp",
       "legenda": "Você, a areia e o fim de tarde",
       "tag": "praia"
     }
