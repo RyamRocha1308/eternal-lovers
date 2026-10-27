@@ -13,7 +13,7 @@ npm run build    # gera dist/
 ## Personalizar (tudo em `src/content/content.json`)
 
 - `site`: nomes, data de início, WhatsApp (`55DDDNÚMERO`), playlist/música do Spotify, próximo encontro.
-- **Senha**: padrão `010124`. Para trocar: `npm run hash -- 150324` e cole o resultado em `site.senhaHash`. (É só uma portinha de brincadeira — o hash fica no código.)
+- **Senha**: padrão `210426`. Para trocar: `npm run hash -- 150324` e cole o resultado em `site.senhaHash`. (É só uma portinha de brincadeira — o hash fica no código.)
 - Fotos: coloque em `public/fotos/` (`.webp`) e ajuste os caminhos. Sem foto, aparece um placeholder.
 - `datasImportantes` (opcional): datas suas que aparecem no calendário do próximo encontro, ex. `{ "data": "10-05", "nome": "Aniversário da Sofya" }` (MM-DD = todo ano; AAAA-MM-DD = uma vez).
 - Cartas com `liberaEm` (data ISO) só abrem a partir dessa data; `audio` aceita um mp3 em `public/audio/`.
