@@ -20,7 +20,7 @@ export default function Galeria({ content }) {
   };
 
   return (
-    <Section id="album" kicker="Praia" title="Álbum de Areia">
+    <Section id="album" title="Um pouco de nós">
       <div className="masonry">
         {list.map((f, i) => (
           <figure key={f.src} className="tile">
