@@ -1,0 +1,493 @@
+{
+  "site": {
+    "nomeDela": "Sofya",
+    "seuNome": "Ryam",
+    "inicioRelacionamento": "2026-04-21T15:40:00-03:00",
+    "senhaHash": "b6b522a526dc65a3e2057be500475bc27cacceb901bb8e45c0aa1c390676d717",
+    "perguntaSenha": "Qual a data em que tudo começou? (DDMMAA)",
+    "dicas": [
+      "Pensa no dia em que tudo começou 💙",
+      "São 6 números: dia, mês e ano (DDMMAA).",
+      "Última dica: foi em abril de 2026, dia 21 😉"
+    ],
+    "proximoEncontroTitulo": "Nosso próximo encontro",
+    "whatsapp": "5585921653736",
+    "playlist": "https://open.spotify.com/playlist/2f5FS9TA2hasw6pXFpuMl4",
+    "musicaNossa": "https://open.spotify.com/playlist/2f5FS9TA2hasw6pXFpuMl4",
+    "whatsappDela": "5585994214283"
+  },
+  "timeline": [
+    {
+      "set": 1,
+      "data": "2026-04-21",
+      "titulo": "O começo de tudo",
+      "texto": "O dia em que o nosso mar começou.",
+      "detalhe": "Escreva aqui a história completa desse dia: onde estávamos, o que vestíamos, o que sentimos.",
+      "foto": "/fotos/01.webp",
+      "icone": "🏐",
+      "ace": true
+    },
+    {
+      "set": 1,
+      "data": "2026-05-15",
+      "titulo": "Nossa primeira saída",
+      "texto": "Aquele dia em que o tempo parou.",
+      "detalhe": "Conte a história completa aqui.",
+      "foto": "/fotos/02.webp",
+      "icone": "🌅"
+    },
+    {
+      "set": 2,
+      "data": "2026-07-10",
+      "titulo": "Primeira viagem juntos",
+      "texto": "Mala pronta, coração leve, sol dourado.",
+      "detalhe": "Conte a história completa aqui.",
+      "foto": "/fotos/03.webp",
+      "icone": "🧳",
+      "ace": true
+    },
+    {
+      "set": 2,
+      "data": "2026-09-05",
+      "titulo": "Um dia só nosso",
+      "texto": "Sem pressa, sem relógio — só você e eu.",
+      "detalhe": "Conte a história completa aqui.",
+      "foto": "/fotos/04.webp",
+      "icone": "💛"
+    },
+    {
+      "set": 3,
+      "data": "2026-10-21",
+      "titulo": "Seis meses de nós",
+      "texto": "Cada dia ao seu lado vale ouro.",
+      "detalhe": "Conte a história completa aqui.",
+      "foto": "/fotos/05.webp",
+      "icone": "💙",
+      "ace": true
+    }
+  ],
+  "sets": [
+    "Capítulo 1 — O começo",
+    "Capítulo 2 — Descobrindo o mundo juntos",
+    "Capítulo 3 — Cada vez mais nós"
+  ],
+  "placar": [
+    {
+      "icone": "😂",
+      "rotulo": "Risadas até chorar",
+      "valor": 12
+    },
+    {
+      "icone": "🤗",
+      "rotulo": "Abraços que curaram o dia",
+      "valor": 89
+    },
+    {
+      "icone": "🌅",
+      "rotulo": "Pores do sol assistidos",
+      "valor": 2
+    },
+    {
+      "icone": "🌊",
+      "rotulo": "Mergulhos juntos",
+      "valor": 1
+    },
+    {
+      "icone": "🍦",
+      "rotulo": "Sorvetes divididos",
+      "valor": 2
+    },
+    {
+      "icone": "💛",
+      "rotulo": "Vezes que pensei em você hoje",
+      "valor": "∞"
+    }
+  ],
+  "galeria": [
+    {
+      "src": "/fotos/01.webp",
+      "legenda": "Nosso começo",
+      "tag": "dia a dia"
+    },
+    {
+      "src": "/fotos/02.webp",
+      "legenda": "Pôr do sol perfeito",
+      "tag": "pôr do sol"
+    },
+    {
+      "src": "/fotos/03.webp",
+      "legenda": "Rumo à aventura",
+      "tag": "viagens"
+    },
+    {
+      "src": "/fotos/04.webp",
+      "legenda": "Dia de sol e areia",
+      "tag": "praia"
+    },
+    {
+      "src": "/fotos/05.webp",
+      "legenda": "Essa cara… 😂",
+      "tag": "engraçadas"
+    },
+    {
+      "src": "/fotos/06.webp",
+      "legenda": "Mar e nós dois",
+      "tag": "mar"
+    },
+    {
+      "src": "/fotos/07.webp",
+      "legenda": "Domingo de nada",
+      "tag": "dia a dia"
+    },
+    {
+      "src": "/fotos/08.webp",
+      "legenda": "Você, a areia e o fim de tarde",
+      "tag": "praia"
+    }
+  ],
+  "tags": [
+    "praia",
+    "mar",
+    "pôr do sol",
+    "viagens",
+    "dia a dia",
+    "engraçadas"
+  ],
+  "cartas": [
+    {
+      "id": "saudade",
+      "titulo": "Abra quando estiver com saudade",
+      "texto": "Escreva aqui a carta. Fecha os olhos, respira fundo: eu tô aí, mesmo longe.",
+      "audio": null,
+      "liberaEm": null
+    },
+    {
+      "id": "ruim",
+      "titulo": "Abra quando tiver um dia ruim",
+      "texto": "Escreva aqui a carta. Todo dia ruim passa, como a maré: ela sempre volta pra perto de você — e eu volto junto.",
+      "audio": null,
+      "liberaEm": null
+    },
+    {
+      "id": "rir",
+      "titulo": "Abra quando precisar rir",
+      "texto": "Escreva aqui a carta. Lembra daquele dia que…",
+      "audio": null,
+      "liberaEm": null
+    },
+    {
+      "id": "dormir",
+      "titulo": "Abra quando não conseguir dormir",
+      "texto": "Escreva aqui a carta. Conta ondas comigo: uma… duas… três…",
+      "audio": null,
+      "liberaEm": null
+    },
+    {
+      "id": "aniversario",
+      "titulo": "Abra no nosso aniversário",
+      "texto": "Escreva aqui a carta de aniversário de namoro. Feliz nós!",
+      "audio": null,
+      "liberaEm": "2027-04-21T00:00:00-03:00"
+    }
+  ],
+  "mapa": [
+    {
+      "nome": "Praia do Futuro",
+      "lat": -3.7448,
+      "lng": -38.4624,
+      "status": "sonho",
+      "memoria": "Só vou lá com você."
+    },
+    {
+      "nome": "Copacabana",
+      "lat": -22.9711,
+      "lng": -43.1822,
+      "status": "sonho",
+      "memoria": "Quero caminhar na areia com você aqui."
+    },
+    {
+      "nome": "Jericoacoara",
+      "lat": -2.7972,
+      "lng": -40.5133,
+      "status": "sonho",
+      "memoria": "Pôr do sol na duna, de mãos dadas."
+    },
+    {
+      "nome": "Fernando de Noronha",
+      "lat": -3.8549,
+      "lng": -32.4244,
+      "status": "sonho",
+      "memoria": "Mergulhar com as tartarugas."
+    }
+  ],
+  "quiz": [
+    {
+      "pergunta": "Qual foi o nosso primeiro filme juntos?",
+      "opcoes": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "correta": 2
+    },
+    {
+      "pergunta": "Qual é a minha comida favorita?",
+      "opcoes": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "correta": 0
+    },
+    {
+      "pergunta": "Onde foi nosso primeiro encontro?",
+      "opcoes": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "correta": 1
+    },
+    {
+      "pergunta": "Qual música é a nossa cara?",
+      "opcoes": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "correta": 3
+    },
+    {
+      "pergunta": "Qual é o meu maior medo?",
+      "opcoes": [
+        "Opção A",
+        "Opção B",
+        "Opção C",
+        "Opção D"
+      ],
+      "correta": 2
+    }
+  ],
+  "memoria": [
+    "🏐",
+    "🌊",
+    "🐚",
+    "🌅",
+    "🍦",
+    "🏖️"
+  ],
+  "rally": {
+    "metas": [
+      {
+        "pontos": 10,
+        "titulo": "Foto secreta",
+        "texto": "Escreva aqui a surpresa da meta de 10 pontos."
+      },
+      {
+        "pontos": 25,
+        "titulo": "Cupom bônus",
+        "texto": "Vale 1 abraço de 10 minutos. Sem pressa."
+      },
+      {
+        "pontos": 50,
+        "titulo": "Carta surpresa",
+        "texto": "Escreva aqui a carta surpresa. Você é boa demais nisso!"
+      }
+    ]
+  },
+  "cupons": [
+    {
+      "id": "sorvete",
+      "titulo": "Vale 1 pôr do sol com sorvete",
+      "descricao": "Eu pago o sorvete. Você escolhe a praia."
+    },
+    {
+      "id": "volei",
+      "titulo": "Vale 1 jogo de vôlei na areia",
+      "descricao": "Eu e você, descalços. Eu perco de propósito. Talvez."
+    },
+    {
+      "id": "massagem",
+      "titulo": "Vale 1 massagem nos pés",
+      "descricao": "Sem reclamar. Sem pressa."
+    },
+    {
+      "id": "jantar",
+      "titulo": "Vale 1 jantar do seu jeito",
+      "descricao": "Você escolhe o lugar e eu não opino."
+    },
+    {
+      "id": "filme",
+      "titulo": "Vale 1 maratona de filmes",
+      "descricao": "Você escolhe todos. Pipoca por minha conta."
+    },
+    {
+      "id": "mimo",
+      "titulo": "Vale 1 dia de rainha",
+      "descricao": "Seu desejo é uma ordem (dentro do razoável 😄)."
+    }
+  ],
+  "bucketList": [
+    {
+      "id": "b1",
+      "texto": "Ver o pôr do sol dourado em Jericoacoara"
+    },
+    {
+      "id": "b2",
+      "texto": "Mergulhar com tartarugas"
+    },
+    {
+      "id": "b3",
+      "texto": "Passar um dia inteiro de praia, sem relógio"
+    },
+    {
+      "id": "b4",
+      "texto": "Caminhar descalços na areia de Copacabana"
+    },
+    {
+      "id": "b5",
+      "texto": "Fazer uma viagem só nossa, sem planejar nada"
+    },
+    {
+      "id": "b6",
+      "texto": "Acampar na praia e ver as estrelas"
+    }
+  ],
+  "matchPoint": {
+    "pergunta": "Quer continuar escrevendo essa história comigo?",
+    "carta": "Minha princesa, eu sei que nós temos discutido e até brigado e passado estresse um com outro, né? Mas se tem uma coisa que eu acredito, é que Deus escreve certo em linhas tortas, e eu fico muito feliz em saber que ele escreve certo a nossa. Mas, chega uma hora que a gente tem que tomar o lápis da mão dele e escrever a nossa própria história, e cabe a ele o que acontecer depois né, porque só ele sabe do futuro.\n\nEu não escolheria outro sorriso se não o seu, e com certeza não escolheria outro cabelo, outra voz e muito menos outra personalidade se não minha estressadinha. Pode não ter sido meu primeiro amor, mas é o que eu mais amo, e quero amar cada dia mais...\n\nEntão deixa eu te perguntar:"
+  },
+  "sugestoesSonhos": [
+    "Ver o nascer do sol na praia",
+    "Jantar à luz de velas na beira do mar",
+    "Andar de jangada ao pôr do sol",
+    "Fazer um piquenique na areia",
+    "Construir um castelo de areia gigante",
+    "Passear de barco ao entardecer",
+    "Tirar uma foto em cada praia que visitarmos",
+    "Aprender a surfar juntos",
+    "Fazer snorkel em águas cristalinas",
+    "Dormir ouvindo o barulho das ondas",
+    "Ler um livro juntos na rede, de frente pro mar",
+    "Fazer uma fogueira na praia",
+    "Colecionar conchas de cada viagem",
+    "Escrever uma mensagem na areia e fotografar",
+    "Tomar um banho de mar à meia-noite",
+    "Ver uma chuva de estrelas na praia",
+    "Andar de bicicleta à beira-mar",
+    "Provar a comida típica de cada praia",
+    "Fazer uma sessão de fotos no pôr do sol dourado",
+    "Escrever uma carta e jogar numa garrafa no mar",
+    "Passar o Réveillon na praia, de branco e dourado",
+    "Conhecer uma ilha deserta",
+    "Fazer uma viagem de carro pela costa",
+    "Jogar vôlei na areia, só nós dois"
+  ],
+  "musicas": [
+    {
+      "id": "4rvk9VCJDbB4oSQJATrces",
+      "titulo": "Arrependidaço (Onde Você Anda)",
+      "artista": "Ferrugem"
+    },
+    {
+      "id": "1N19UVD4GRBFT6UrDaX6rk",
+      "titulo": "Bebe e Vem Me Procurar / Quem Ama Sente Saudade (Ao Vivo)",
+      "artista": "Turma do Pagode, Grupo Menos É Mais"
+    },
+    {
+      "id": "038DECyhINSHF4b0fWkuoE",
+      "titulo": "Era Óbvio",
+      "artista": "Marisa Monte"
+    },
+    {
+      "id": "5MLTylyzHVd7oV8OE4JMZt",
+      "titulo": "Até Que Durou - Ao Vivo",
+      "artista": "Péricles"
+    },
+    {
+      "id": "0ZmvPa1tgXSwoHcFRBnDES",
+      "titulo": "Palpite",
+      "artista": "Vanessa Rangel"
+    },
+    {
+      "id": "4BQkcxqJo99JtZusan2wfu",
+      "titulo": "No Céu Dos Braços Teus",
+      "artista": "Di Paullo & Paulino"
+    },
+    {
+      "id": "4aWvRjHweMAoB1RzUcXUUu",
+      "titulo": "Farol Das Estrelas",
+      "artista": "Soweto"
+    },
+    {
+      "id": "1h0f2T0DT3EVYnURyV8Rtu",
+      "titulo": "Amado",
+      "artista": "Vanessa Da Mata"
+    },
+    {
+      "id": "0zLs0xjw4MYcMiXHsOvSgk",
+      "titulo": "Preciso Dizer Que Te Amo",
+      "artista": "Cazuza, Bebel Gilberto"
+    },
+    {
+      "id": "6r9SgqJqjv0ddQDOQT67vE",
+      "titulo": "Buzios E Tarô",
+      "artista": "Soweto"
+    },
+    {
+      "id": "3Oi1rRW0QdWsE7SGATTE2z",
+      "titulo": "Tô te filmando (Sorria)",
+      "artista": "Os Travessos"
+    },
+    {
+      "id": "43BCxznTSBLcXzu4lJ8KW5",
+      "titulo": "Ainda Bem",
+      "artista": "Marisa Monte"
+    },
+    {
+      "id": "3Cabw7y9EoR68v7dBS76HQ",
+      "titulo": "Pirata e tesouro - Ao vivo",
+      "artista": "Ferrugem"
+    },
+    {
+      "id": "3iof6EclqePezHDibBiykI",
+      "titulo": "Oceano",
+      "artista": "Djavan"
+    },
+    {
+      "id": "5lvvqOEWpUvs2jaFkQTFWJ",
+      "titulo": "Quando Bate Aquela Saudade",
+      "artista": "Rubel"
+    },
+    {
+      "id": "6XNlZ5mYra5mSv7wmAck91",
+      "titulo": "Coisas Que Eu Sei - Ao Vivo No Rio De Janeiro / 2008",
+      "artista": "Jorge Vercillo, Dudu Falcão"
+    },
+    {
+      "id": "04h9o3gtRD7fvGafF7ukJj",
+      "titulo": "Eu Amo Você",
+      "artista": "Tim Maia"
+    },
+    {
+      "id": "1ewnsEdiX9GcsclM4FvR4J",
+      "titulo": "Olha",
+      "artista": "Maria Bethânia"
+    },
+    {
+      "id": "5nmaIfT1GufHI0lnC3TE2J",
+      "titulo": "Que Se Chama Amor",
+      "artista": "Só Pra Contrariar"
+    },
+    {
+      "id": "56bWd9eEu5xsIWETPBIA8k",
+      "titulo": "Inaraí",
+      "artista": "Katinguelê"
+    }
+  ],
+  "datasImportantes": []
+}
