@@ -23,7 +23,6 @@
       "titulo": "O começo de tudo",
       "texto": "O dia em que nossos olhares se cruzaram.",
       "detalhe": "Escreva aqui a história completa desse dia: onde estávamos, o que vestíamos, o que sentimos.",
-      "foto": "fotos/01.webp",
       "icone": "🏐",
       "ace": true
     },
@@ -105,11 +104,6 @@
   ],
   "galeria": [
     {
-      "src": "fotos/01.webp",
-      "legenda": "Nosso começo",
-      "tag": "dia a dia"
-    },
-    {
       "src": "fotos/02.webp",
       "legenda": "Pôr do sol perfeito",
       "tag": "pôr do sol"
@@ -143,6 +137,56 @@
       "src": "fotos/08.webp",
       "legenda": "Você, a areia e o fim de tarde",
       "tag": "praia"
+    },
+    {
+      "src": "fotos/09.webp",
+      "legenda": "Nós dois",
+      "tag": "dia a dia"
+    },
+    {
+      "src": "fotos/10.webp",
+      "legenda": "Nós dois",
+      "tag": "dia a dia"
+    },
+    {
+      "src": "fotos/11.webp",
+      "legenda": "Nós dois",
+      "tag": "dia a dia"
+    },
+    {
+      "src": "fotos/12.webp",
+      "legenda": "Nós dois",
+      "tag": "dia a dia"
+    },
+    {
+      "src": "fotos/13.webp",
+      "legenda": "Nós dois",
+      "tag": "dia a dia"
+    },
+    {
+      "src": "fotos/14.webp",
+      "legenda": "Nós dois",
+      "tag": "dia a dia"
+    },
+    {
+      "src": "fotos/15.webp",
+      "legenda": "Nós dois",
+      "tag": "dia a dia"
+    },
+    {
+      "src": "fotos/16.webp",
+      "legenda": "Nós dois",
+      "tag": "dia a dia"
+    },
+    {
+      "src": "fotos/17.webp",
+      "legenda": "Nós dois",
+      "tag": "dia a dia"
+    },
+    {
+      "src": "fotos/18.webp",
+      "legenda": "Nós dois",
+      "tag": "dia a dia"
     }
   ],
   "tags": [
