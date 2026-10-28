@@ -53,7 +53,7 @@ export default function BucketList({ content }) {
   };
 
   const send = () => {
-    const linhas = items.map((i) => `${done.includes(i.id) ? '✅' : '⬜'} ${i.texto}`).join('\n');
+    const linhas = items.map((i) => `${done.includes(i.id) ? '[x]' : '[ ]'} ${i.texto}`).join('\n');
     window.open(waLink(content.site.whatsapp, `Nossas próximas aventuras 🌅\n\n${linhas}`), '_blank', 'noopener');
   };
 

@@ -10,7 +10,7 @@ export default function Cupons({ content }) {
     beep('win');
     fx('confetti');
     // abre o WhatsApp numa nova aba para avisar
-    window.open(waLink(content.site.whatsapp, `Resgatei o vale "${c.titulo}"! 💛`), '_blank', 'noopener');
+    window.open(waLink(content.site.whatsapp, `Resgatei o vale "${c.titulo}"!`), '_blank', 'noopener');
   };
 
   return (
