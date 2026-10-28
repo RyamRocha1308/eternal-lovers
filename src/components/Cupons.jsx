@@ -31,6 +31,13 @@ export default function Cupons({ content }) {
           );
         })}
       </div>
+      {used.length > 0 && (
+        <div className="restore">
+          <button className="btn ghost" onClick={() => setUsed([])}>
+            Restaurar cupons
+          </button>
+        </div>
+      )}
     </Section>
   );
 }
