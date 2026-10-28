@@ -19,7 +19,7 @@
   "timeline": [
     {
       "set": 1,
-      "data": "2026-04-21",
+      "data": "2025-11-30",
       "titulo": "O começo de tudo",
       "texto": "O dia em que nossos olhares se cruzaram.",
       "detalhe": "Escreva aqui a história completa desse dia: onde estávamos, o que vestíamos, o que sentimos.",
@@ -28,8 +28,8 @@
     },
     {
       "set": 1,
-      "data": "2026-05-15",
-      "titulo": "Nossa primeira saída",
+      "data": "2025-12-07",
+      "titulo": "Nossa primeira saída (Aflorar)",
       "texto": "Aquele dia em que o tempo parou.",
       "detalhe": "Conte a história completa aqui.",
       "foto": "fotos/02.webp",
@@ -37,17 +37,7 @@
     },
     {
       "set": 2,
-      "data": "2026-07-10",
-      "titulo": "Primeira viagem juntos",
-      "texto": "Mala pronta, coração leve, sol dourado.",
-      "detalhe": "Conte a história completa aqui.",
-      "foto": "fotos/03.webp",
-      "icone": "🧳",
-      "ace": true
-    },
-    {
-      "set": 2,
-      "data": "2026-09-05",
+      "data": "2026-08-13",
       "titulo": "Um dia só nosso",
       "texto": "Sem pressa, sem relógio — só você e eu.",
       "detalhe": "Conte a história completa aqui.",
