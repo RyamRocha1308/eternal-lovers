@@ -10,7 +10,7 @@ export default function Cartas({ content }) {
   const pick = (c) => {
     if (c.liberaEm && new Date(c.liberaEm) > now) {
       beep('fail');
-      toast(`🔒 Essa garrafa só abre em ${fmtData(c.liberaEm)}`);
+      toast(`🔒 Essa carta só abre em ${fmtData(c.liberaEm)}`);
       return;
     }
     beep('hit');
@@ -19,13 +19,13 @@ export default function Cartas({ content }) {
   };
 
   return (
-    <Section id="cartas" kicker="Mensagem ao mar" title="Cartas na Garrafa">
+    <Section id="cartas" kicker="Mensagem à sereia" title="Cartas">
       <div className="bottles">
         {content.cartas.map((c, i) => {
           const locked = c.liberaEm && new Date(c.liberaEm) > now;
           return (
             <button key={c.id} data-tip={locked ? `Abre em ${fmtData(c.liberaEm)}` : undefined} className={'bottle' + (read.includes(c.id) ? ' read' : '')} style={{ animationDelay: i * 0.4 + 's' }} onClick={() => pick(c)}>
-              <span className="bottle-ico">{locked ? '🔒' : '🍾'}</span>
+              <span className="bottle-ico">{locked ? '🔒' : '💌'}</span>
               <span>{c.titulo}</span>
             </button>
           );
