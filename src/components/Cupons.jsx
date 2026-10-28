@@ -28,11 +28,13 @@ export default function Cupons({ content }) {
           return (
             <article key={c.id} className={'ticket' + (done ? ' used' : '')}>
               <div>
-                <h3>{c.titulo}</h3>
+                <h3>
+                  {c.titulo} <span className="qty">{n}x</span>
+                </h3>
                 <p>{c.descricao}</p>
               </div>
               <button className="btn" disabled={done} onClick={() => redeem(c)}>
-                {done ? 'Resgatado ✓' : n > 1 ? `Resgatar (${n})` : 'Resgatar'}
+                {done ? 'Resgatado ✓' : 'Resgatar'}
               </button>
             </article>
           );
