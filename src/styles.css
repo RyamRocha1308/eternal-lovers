@@ -222,6 +222,7 @@ input[type='text'], input:not([type]), .portal-form input, .add input {
 .tickets { display: grid; gap: 12px; }
 .ticket { display: flex; gap: 12px; align-items: center; justify-content: space-between; background: var(--ball); color: var(--deep); border-radius: 14px; padding: 14px 16px; position: relative; -webkit-mask: radial-gradient(circle 10px at 0 50%, transparent 98%, #000) left / 51% 100% no-repeat, radial-gradient(circle 10px at 100% 50%, transparent 98%, #000) right / 51% 100% no-repeat; mask: radial-gradient(circle 10px at 0 50%, transparent 98%, #000) left / 51% 100% no-repeat, radial-gradient(circle 10px at 100% 50%, transparent 98%, #000) right / 51% 100% no-repeat; }
 .ticket h3 { margin: 0 0 2px; font-size: 1.05rem; } .ticket p { margin: 0; font-size: 0.9rem; }
+.rules { margin: -4px 0 16px; font-size: 0.95rem; opacity: 0.85; }
 .restore { display: flex; justify-content: center; margin-top: 16px; }
 .ticket.used { filter: grayscale(1); opacity: 0.6; }
 .ticket .btn { background: var(--deep); color: #fff; flex: none; }
