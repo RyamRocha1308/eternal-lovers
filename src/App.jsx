@@ -7,9 +7,7 @@ import Timeline from './components/Timeline.jsx';
 import Placar from './components/Placar.jsx';
 import Galeria from './components/Galeria.jsx';
 import Cartas from './components/Cartas.jsx';
-import Mapa from './components/Mapa.jsx';
 import Trilha from './components/Trilha.jsx';
-import Quadra from './components/Quadra.jsx';
 import Cupons from './components/Cupons.jsx';
 import BucketList from './components/BucketList.jsx';
 import MatchPoint from './components/MatchPoint.jsx';
@@ -74,9 +72,7 @@ export default function App() {
             <Placar content={content} />
             <Galeria content={content} />
             <Cartas content={content} />
-            <Mapa content={content} />
             <Trilha content={content} />
-            <Quadra content={content} />
             <Cupons content={content} />
             <BucketList content={content} />
             <MatchPoint content={content} />
